@@ -1,4 +1,4 @@
-# Py4POE
+# Python4POE
 
 ## Using Python and Statsmodels for Principles of Econometrics 
 
